@@ -1,6 +1,6 @@
 # Portfolyo Websites
 
-The simple portfolio site was made using Tailwind and the articles written in Turkish were changed to English.
+A simple portfolio site was created using Tailwind, the headings and the writings in the codes are in Turkish, you can translate them into English with gpt or use them in Turkish.
 
 
 
